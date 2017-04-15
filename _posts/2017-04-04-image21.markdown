@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Корзина из целых прутьев. Это универсальная корзина ручки складываются полностю вниз"
+date:   2017-04-06 17:40:06
+code: 1765
+categories: jekyll update
+image: image21.jpg
+description: Объём-12-13 литров, цена 2500р
+price: 2 500 р
+---
+

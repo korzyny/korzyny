@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Ажурные корзины из целых прутьев"
+date:   2017-04-06 17:40:06
+code: 1749
+categories: jekyll update
+image: image5.jpg
+description: 1)18л-1500р, 2) 11-12л-1300р, 3)6-7л-800р, 4)2-2,5 л-500р
+price: от 500 р
+---
+

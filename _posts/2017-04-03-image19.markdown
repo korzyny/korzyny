@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Корзины для переноски дров"
+date:   2017-04-06 17:40:06
+code: 1763
+categories: jekyll update
+image: image19.jpg
+description: 1)3000р, 2)2500р
+price: от 2 500 р
+---
+

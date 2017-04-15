@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Плетеное кресло"
+date:   2017-04-06 17:40:06
+code: 1792
+categories: jekyll update
+image: image48.jpg
+description: Цена - 7000р
+price: 7 000 р
+---

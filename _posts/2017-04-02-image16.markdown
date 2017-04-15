@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Красивая корзинка из целых прутиков "
+date:   2017-04-06 17:40:06
+code: 1760
+categories: jekyll update
+image: image16.jpg
+description: объём 14-15 литров, цена-1500р
+price: 1 500 р
+---
+

@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Плетеный набор мебели"
+date:   2017-04-06 17:40:06
+code: 1793
+categories: jekyll update
+image: image49.jpg
+description: Цена 30000р. стол-7000р, кресла-14000р, диван-9000р
+price: от 9 000 р
+---

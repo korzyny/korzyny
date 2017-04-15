@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Красивая ваза насыщеные цвета, сделано из лозы"
+date:   2017-04-06 17:40:06
+code: 1780
+categories: jekyll update
+image: image36.jpg
+description: Цена 2000 р
+price: 2 000 р
+---
+

@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Круглые корзины для сбора ягод"
+date:   2017-04-06 17:40:06
+code: 1759
+categories: jekyll update
+image: image15.jpg
+description: 1) 13-14 л-1500р, 2)12л-1400р, 3)10-11л-1300р, 4)12-13л-1400р
+price: от 1 300 р
+---
+

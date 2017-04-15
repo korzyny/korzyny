@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Плетеная кровать размер 2,2м на 1,8-1,9м"
+date:   2017-04-06 17:40:06
+code: 1791
+categories: jekyll update
+image: image47.jpg
+description: Цена - 30000р
+price: 30 000 р
+---

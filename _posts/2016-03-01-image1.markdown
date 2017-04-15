@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Пасхальные корзинки из цельных прутиков"
+code:   1745
+categories: jekyll update
+image: image1.jpg
+description: 1) 700р, 2) 600р, 3) 500р, 4) 400р
+price: от 400 р
+---

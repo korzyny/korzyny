@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Корзина для зонтов из целых прутьев очень крепкая"
+date:   2017-04-06 17:40:06
+code: 1776
+categories: jekyll update
+image: image32.jpg
+description: 1500р
+price: 1 500 р
+---
+

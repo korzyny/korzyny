@@ -1,0 +1,17 @@
+# Site settings
+title: Плетеные корзины в Санкт-Петербурге
+email: your-email@domain.com
+description: 
+baseurl: "/korzyny" # the subpath of your site, e.g. /blog/
+url: "http://ssokurenko.github.io" # the base hostname & protocol for your site
+copyright: '&copy; 2015-2016'
+
+# Build settings
+markdown: kramdown
+
+# Custom theme could be generated at: https://getmdl.io/customize/index.html
+material_theme: blue-deep_orange
+
+# Google Analytics account ID (UA-XXXXXXXX-X)
+
+google-analytics-ua: UA-97254201-1

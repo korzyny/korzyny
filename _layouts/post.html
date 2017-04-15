@@ -1,0 +1,13 @@
+---
+layout: default
+---
+<div class="post mdl-shadow--2dp">
+  <header class="post-header">
+    <h3 class="post-title">{{ page.title }}</h3>    
+    <img src="{{site.baseurl}}/assets/images/{{page.image}}" />
+    <p class="post-meta">{% if page.description %}  {{page.description}}{%endif%}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+  </header>
+  <article class="post-content">
+    {{ content }}
+  </article>
+</div>

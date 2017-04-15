@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Плетеные бутылки"
+date:   2017-04-06 17:40:06
+code: 1802
+categories: jekyll update
+image: image58.jpg
+description: Цена-600р
+price: 600 р
+---
