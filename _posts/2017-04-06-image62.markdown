@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Набор мебели"
+title:  "Журнальный стол"
 date:   2017-04-06 17:40:06
 code: 1806
 categories: jekyll update
